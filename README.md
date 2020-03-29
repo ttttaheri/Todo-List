@@ -11,9 +11,9 @@ $ bash task.sh add [task text]
 
 If at the end of the heading the phrase is "(important)" or "(very important)" (case-insensitive), the priority will be M and H, respectively. Otherwise the priority is L.
 
-```L```: Low
-```M```:Medium
-```H```:High
+```L```: Low </br>
+```M```:Medium </br>
+```H```:High </br>
 
 For show your Todo list:
 
